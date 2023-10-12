@@ -96,6 +96,9 @@ celerybeat-schedule
 venv/
 ENV/
 
+# Data files
+*.mat
+
 # Spyder project settings
 .spyderproject
 .spyproject
